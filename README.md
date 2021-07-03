@@ -1,0 +1,2 @@
+# neoStruct
+a fund struct
